@@ -102,4 +102,4 @@ behind each step.
 ## 📄 License
 
 This project is for educational and portfolio purposes as part of the
-CodeAlpha Data Science/Analytics internship.
+CodeAlpha Data Analytics internship.
