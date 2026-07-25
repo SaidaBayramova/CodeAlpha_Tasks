@@ -114,5 +114,5 @@ jupyter notebook Task4_Sentiment_Analysis.ipynb
 ## 📄 License
 
 This project is for educational and portfolio purposes as part of the
-CodeAlpha Data Science/Analytics internship. Dataset provided by Julian
+CodeAlpha Data Analytics internship. Dataset provided by Julian
 McAuley (UCSD) for academic/research use.
