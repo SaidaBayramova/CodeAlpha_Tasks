@@ -99,7 +99,3 @@ jupyter notebook Task2_Spotify_EDA.ipynb
 See the notebook for the full analysis, all 9 charts, and the reasoning
 behind each step.
 
-## 📄 License
-
-This project is for educational and portfolio purposes as part of the
-CodeAlpha Data Analytics internship.
