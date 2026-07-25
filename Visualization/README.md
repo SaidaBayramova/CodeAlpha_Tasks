@@ -136,7 +136,3 @@ pip install -r requirements.txt
 jupyter notebook Task3_Data_Visualization.ipynb
 ```
 
-## 📄 License
-
-This project is for educational and portfolio purposes as part of the
-CodeAlpha Data Analytics internship.
